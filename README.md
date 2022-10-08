@@ -21,6 +21,7 @@ There were 14,594 total 5 star reviews, 13 of which were vine reviews and 13,281
 
 ### What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 59% of the Vine reviews were 5-star reviews, 48% of the non-Vine reviews were 5-star reviews.
-![](reviews_5star_paid_unpaid_percentages.png
+![](reviews_5star_paid_unpaid_percentages.png)
 
 ## Summary
+Since the percentage of non-vine 5-star reviews (48%) does not drastically differ from the vine 5-star reviews (59%) there does not seem to be a significant paid bias. Additional recommended analysis would be to compare the other ratings that the sample of reviewers have made on other products to determine an average rating overall, not just specifically in the paid or unpaid shoe category.
